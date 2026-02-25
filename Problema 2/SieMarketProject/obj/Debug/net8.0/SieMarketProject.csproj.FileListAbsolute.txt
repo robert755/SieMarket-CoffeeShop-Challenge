@@ -1,0 +1,14 @@
+C:\Users\Ciceu\SieMarketProject\bin\Debug\net8.0\SieMarketProject.exe
+C:\Users\Ciceu\SieMarketProject\bin\Debug\net8.0\SieMarketProject.deps.json
+C:\Users\Ciceu\SieMarketProject\bin\Debug\net8.0\SieMarketProject.runtimeconfig.json
+C:\Users\Ciceu\SieMarketProject\bin\Debug\net8.0\SieMarketProject.dll
+C:\Users\Ciceu\SieMarketProject\bin\Debug\net8.0\SieMarketProject.pdb
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.AssemblyInfoInputs.cache
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.AssemblyInfo.cs
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.csproj.CoreCompileInputs.cache
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.dll
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\refint\SieMarketProject.dll
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.pdb
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\SieMarketProject.genruntimeconfig.cache
+C:\Users\Ciceu\SieMarketProject\obj\Debug\net8.0\ref\SieMarketProject.dll
